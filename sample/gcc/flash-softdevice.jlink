@@ -1,0 +1,4 @@
+loadbin "/home/luis/Desktop/SETEC/s110_nrf51822_7.3.0_softdevice.hex" 0
+sleep 100
+r
+exit
