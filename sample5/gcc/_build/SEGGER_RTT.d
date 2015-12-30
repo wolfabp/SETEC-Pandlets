@@ -1,0 +1,19 @@
+_build/SEGGER_RTT.o: \
+ /home/josepintor/Documentos/SETEC/cenas/sample5/drivers/hardware/segger_rtt/SEGGER_RTT.c \
+ /home/josepintor/Documentos/SETEC/cenas/sample5/drivers/hardware/segger_rtt/SEGGER_RTT.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/string.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/_ansi.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/newlib.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/config.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/features.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/reent.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/_ansi.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/lib/gcc/arm-none-eabi/4.9.3/include/stddef.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/_types.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/machine/_types.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/machine/_default_types.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/lock.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/cdefs.h \
+ /home/josepintor/Documentos/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/string.h \
+ /home/josepintor/Documentos/SETEC/cenas/sample5/drivers/hardware/segger_rtt/SEGGER_RTT_Conf.h
