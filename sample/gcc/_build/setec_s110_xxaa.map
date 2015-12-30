@@ -1,0 +1,2140 @@
+Archive member included because of file (symbol)
+
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+                              _build/main.o (__gnu_thumb1_case_uqi)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+                              _build/bme280.o (__aeabi_uidiv)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+                              _build/utils.o (__aeabi_idiv)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                              _build/init.o (__aeabi_fcmpeq)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+                              _build/fhp_gpio.o (__aeabi_uldivmod)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__gesf2)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__lesf2)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o) (__aeabi_lmul)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o) (__divdi3)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o) (__udivdi3)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o) (__clzdi2)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o) (__clzsi2)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+                              _build/mpu9x50.o (malloc)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcmp.o)
+                              _build/mpu9x50.o (memcmp)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy.o)
+                              _build/ble_ambient.o (memcpy)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o) (_free_r)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+                              _build/main.o (sprintf)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strcpy.o)
+                              _build/utils.o (strcpy)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+                              _build/main.o (strlen)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o) (_svfprintf_r)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (memmove)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+m_gauge_timer_id    0x4               _build/main.o
+errno               0x4               /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+device_address      0x1               _build/mpu9x50.o
+m_gpiote_user_ch    0x1               _build/main.o
+m_watchdog_timer_id
+                    0x4               _build/main.o
+twi_busy            0x1               _build/utils.o
+m_app_handle        0x1               _build/main.o
+m_pr                0x20              _build/main.o
+high_voltage_on     0x1               _build/main.o
+bme280              0x3c              _build/bme280.o
+m_hum               0x20              _build/main.o
+low_battery         0x1               _build/main.o
+m_amb               0x50              _build/main.o
+m_temp              0x20              _build/main.o
+sd_card             0x230             _build/main.o
+m_base_timer_id     0x4               _build/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .text          0x00000000       0x60 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .data          0x00000000        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .bss           0x00000000       0x1c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 _build/utils.o
+ .data          0x00000000        0x0 _build/utils.o
+ .bss           0x00000000        0x0 _build/utils.o
+ .text.itoa_embedded
+                0x00000000       0x80 _build/utils.o
+ .text          0x00000000        0x0 _build/ble_ambient.o
+ .data          0x00000000        0x0 _build/ble_ambient.o
+ .text.ble_ambient_calib_update
+                0x00000000        0x4 _build/ble_ambient.o
+ .text          0x00000000        0x0 _build/main.o
+ .bss           0x00000000        0x0 _build/main.o
+ .text.on_low_bat_evt
+                0x00000000       0x84 _build/main.o
+ .text          0x00000000        0x0 _build/init.o
+ .data          0x00000000        0x0 _build/init.o
+ .text.gap_params_update
+                0x00000000       0x94 _build/init.o
+ .text          0x00000000        0x0 _build/pr.o
+ .data          0x00000000        0x0 _build/pr.o
+ .bss           0x00000000        0x0 _build/pr.o
+ .text          0x00000000        0x0 _build/temp.o
+ .data          0x00000000        0x0 _build/temp.o
+ .bss           0x00000000        0x0 _build/temp.o
+ .text          0x00000000        0x0 _build/hum.o
+ .data          0x00000000        0x0 _build/hum.o
+ .bss           0x00000000        0x0 _build/hum.o
+ .text          0x00000000        0x0 _build/sd_card.o
+ .data          0x00000000        0x0 _build/sd_card.o
+ .text          0x00000000        0x0 _build/nrf_pwm.o
+ .text.nrf_pwm_set_values
+                0x00000000       0x44 _build/nrf_pwm.o
+ .text.nrf_pwm_set_max_value
+                0x00000000        0xc _build/nrf_pwm.o
+ .text          0x00000000        0x0 _build/fhp_gpio.o
+ .bss           0x00000000        0x0 _build/fhp_gpio.o
+ .text.fhp_gpio_is_being_used
+                0x00000000       0x20 _build/fhp_gpio.o
+ .text          0x00000000        0x0 _build/spi_fhp_master.o
+ .data          0x00000000        0x0 _build/spi_fhp_master.o
+ .bss           0x00000000        0x0 _build/spi_fhp_master.o
+ .text          0x00000000        0x0 _build/bme280.o
+ .data          0x00000000        0x0 _build/bme280.o
+ .text.bme280_compensate_temperature_int32_sixteen_bit_output
+                0x00000000       0x24 _build/bme280.o
+ .text.bme280_compensate_humidity_int32_sixteen_bit_output
+                0x00000000        0xc _build/bme280.o
+ .text.bme280_read_uncomp_pressure_temperature_humidity
+                0x00000000       0x70 _build/bme280.o
+ .text.bme280_read_pressure_temperature_humidity
+                0x00000000       0x4c _build/bme280.o
+ .text.bme280_get_oversamp_temperature
+                0x00000000       0x3c _build/bme280.o
+ .text.bme280_get_oversamp_pressure
+                0x00000000       0x40 _build/bme280.o
+ .text.bme280_get_oversamp_humidity
+                0x00000000       0x40 _build/bme280.o
+ .text.bme280_get_spi3
+                0x00000000       0x38 _build/bme280.o
+ .text.bme280_get_filter
+                0x00000000       0x38 _build/bme280.o
+ .text.bme280_get_standby_durn
+                0x00000000       0x38 _build/bme280.o
+ .text.bme280_set_spi3
+                0x00000000       0xf0 _build/bme280.o
+ .text.bme280_set_standby_durn
+                0x00000000       0xf0 _build/bme280.o
+ .text.bme280_compute_wait_time
+                0x00000000       0x5c _build/bme280.o
+ .text.bme280_get_forced_uncomp_pressure_temperature_humidity
+                0x00000000      0x134 _build/bme280.o
+ .text          0x00000000        0x0 _build/max1161x.o
+ .data          0x00000000        0x0 _build/max1161x.o
+ .text.max1161x_read_data
+                0x00000000       0x4c _build/max1161x.o
+ .text.max1161x_read_channel
+                0x00000000       0x44 _build/max1161x.o
+ .text          0x00000000        0x0 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_Read
+                0x00000000       0x9c _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetKey
+                0x00000000       0x1e _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_WaitKey
+                0x00000000        0xc _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasKey
+                0x00000000       0x14 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigUpBuffer
+                0x00000000       0x40 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigDownBuffer
+                0x00000000       0x38 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_Init
+                0x00000000        0x2 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetTerminal
+                0x00000000       0x30 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_TerminalOut
+                0x00000000       0x64 _build/SEGGER_RTT.o
+ .text          0x00000000        0x0 _build/max17048.o
+ .data          0x00000000        0x0 _build/max17048.o
+ .text.max17048_read_volt
+                0x00000000       0x18 _build/max17048.o
+ .text          0x00000000        0x0 _build/mpu9x50.o
+ .text.readBits
+                0x00000000       0x30 _build/mpu9x50.o
+ .text.readBit  0x00000000        0xc _build/mpu9x50.o
+ .text.getBit   0x00000000       0x1a _build/mpu9x50.o
+ .text.get8     0x00000000       0x16 _build/mpu9x50.o
+ .text.get16L   0x00000000       0x1e _build/mpu9x50.o
+ .text.mpu9x50_getDeviceID
+                0x00000000       0x16 _build/mpu9x50.o
+ .text.mpu9x50_isReady
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.ak89xx_getDeviceID
+                0x00000000       0x14 _build/mpu9x50.o
+ .text.ak89xx_isReady
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.mpu9x50_setRate
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setMagRate
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_cycleMode
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setCycleWakeFrequency
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.mpu9x50_getSampleRateDivider
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setExternalFrameSync
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.mpu9x50_setGyroSelfTest
+                0x00000000       0x24 _build/mpu9x50.o
+ .text.mpu9x50_setAccelSelfTest
+                0x00000000       0x24 _build/mpu9x50.o
+ .text.mpu9x50_getXGyroOffset
+                0x00000000        0xa _build/mpu9x50.o
+ .text.mpu9x50_getYGyroOffset
+                0x00000000        0xa _build/mpu9x50.o
+ .text.mpu9x50_getZGyroOffset
+                0x00000000        0xa _build/mpu9x50.o
+ .text.mpu9x50_getXAccelOffset
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_getYAccelOffset
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_getZAccelOffset
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_calibrate
+                0x00000000       0xf8 _build/mpu9x50.o
+ .text.mpu9x50_setTemperatureFifo
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setSlave2Fifo
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setSlave1Fifo
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setSlave0Fifo
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setMultiMaster
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setWaitForExternalSensor
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setSlave3Fifo
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setMasterStartStop
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setI2CMasterClock
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveRW
+                0x00000000       0x18 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveAddress
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveRegister
+                0x00000000       0x14 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveEnable
+                0x00000000       0x18 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveByteSwap
+                0x00000000       0x18 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveRegDisable
+                0x00000000       0x18 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveByteGrouping
+                0x00000000       0x18 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveTransactionLength
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveDataOut
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveShadowDelay
+                0x00000000       0x12 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4RW
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4Address
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4Register
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4DataOut
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4Enable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4IntEnable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4RegDisable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_getI2cSlave4Di
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cPassthrough
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4Done
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cLostArbitration
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave0Nack
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave1Nack
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave2Nack
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave3Nack
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlave4Nack
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setInterruptActiveLow
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setInterruptOpenDrain
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setInterruptLatch
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setInterruptAnyReadClear
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setFsyncInterruptActiveLow
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setFsyncInterruptEnable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setI2cAuxBypassEnable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setInterruptFifoOverflowEnable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setInterruptMasterEnable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_getInterruptFifoOverflow
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_getInterruptMaster
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_getInterruptDataReady
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_getInterruptWOM
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_getInterruptStatus
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_resetGyroSignalPath
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_resetAccelSignalPath
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_resetTempSignalPath
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setI2cMasterEnable
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_sleep
+                0x00000000       0x16 _build/mpu9x50.o
+ .text.mpu9x50_enableMagnetometer
+                0x00000000       0x48 _build/mpu9x50.o
+ .text.mpu9x50_setI2cMasterReset
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setFullSensorReset
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_getFifoCount
+                0x00000000        0xa _build/mpu9x50.o
+ .text.mpu9x50_getFifoBuffer
+                0x00000000       0x10 _build/mpu9x50.o
+ .text.mpu9x50_getOTPBankValid
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setIntPLLReadyEnabled
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setIntDMPEnabled
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_getIntPLLReadyStatus
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_getIntDMPStatus
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_getDMPEnabled
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setDMPEnabled
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_resetDMP
+                0x00000000        0xe _build/mpu9x50.o
+ .text.mpu9x50_setMemoryBank
+                0x00000000       0x22 _build/mpu9x50.o
+ .text.mpu9x50_setMemoryStartAddress
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_readMemoryByte
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_writeMemoryByte
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_readMemoryBlock
+                0x00000000       0x74 _build/mpu9x50.o
+ .text.mpu9x50_writeMemoryBlock
+                0x00000000       0xe6 _build/mpu9x50.o
+ .text.mpu9x50_writeDMPConfigurationSet
+                0x00000000       0x54 _build/mpu9x50.o
+ .text.mpu9x50_getDMPConfig1
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setDMPConfig1
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_getDMPConfig2
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_setDMPConfig2
+                0x00000000        0xc _build/mpu9x50.o
+ .text.mpu9x50_initDMP
+                0x00000000      0x2c0 _build/mpu9x50.o
+ .rodata        0x00000000      0x91e _build/mpu9x50.o
+ .text          0x00000000        0x0 _build/pca9538.o
+ .data          0x00000000        0x0 _build/pca9538.o
+ .text.pca9538_read
+                0x00000000       0x54 _build/pca9538.o
+ .text.pca9538_read_input_channel
+                0x00000000       0x30 _build/pca9538.o
+ .text.pca9538_read_input_port
+                0x00000000       0x18 _build/pca9538.o
+ .text.pca9538_write_output_channel
+                0x00000000       0x6c _build/pca9538.o
+ .text.pca9538_config_channel
+                0x00000000       0x3c _build/pca9538.o
+ .text          0x00000000        0x0 _build/ff.o
+ .data          0x00000000        0x0 _build/ff.o
+ .text.get_fileinfo
+                0x00000000       0x66 _build/ff.o
+ .text.dir_remove
+                0x00000000       0x34 _build/ff.o
+ .text.dir_read.constprop.11
+                0x00000000       0x5a _build/ff.o
+ .text.f_read   0x00000000      0x136 _build/ff.o
+ .text.f_opendir
+                0x00000000       0x76 _build/ff.o
+ .text.f_closedir
+                0x00000000       0x10 _build/ff.o
+ .text.f_readdir
+                0x00000000       0x54 _build/ff.o
+ .text.f_stat   0x00000000       0x44 _build/ff.o
+ .text.f_getfree
+                0x00000000       0xe6 _build/ff.o
+ .text.f_truncate
+                0x00000000       0x8c _build/ff.o
+ .text.f_unlink
+                0x00000000       0x98 _build/ff.o
+ .text.f_mkdir  0x00000000      0x196 _build/ff.o
+ .text.f_chmod  0x00000000       0x4c _build/ff.o
+ .text.f_rename
+                0x00000000      0x108 _build/ff.o
+ .text.f_utime  0x00000000       0x50 _build/ff.o
+ .text.f_mkfs   0x00000000      0x5f4 _build/ff.o
+ .rodata        0x00000000       0x2c _build/ff.o
+ .text          0x00000000        0x0 _build/diskio.o
+ .text          0x00000000        0x0 _build/battery.o
+ .data          0x00000000        0x0 _build/battery.o
+ .text          0x00000000        0x0 _build/twi_hw_master.o
+ .data          0x00000000        0x0 _build/twi_hw_master.o
+ .bss           0x00000000        0x0 _build/twi_hw_master.o
+ .text          0x00000000        0x0 _build/ble_dis.o
+ .data          0x00000000        0x0 _build/ble_dis.o
+ .text          0x00000000        0x0 _build/ble_srv_common.o
+ .data          0x00000000        0x0 _build/ble_srv_common.o
+ .bss           0x00000000        0x0 _build/ble_srv_common.o
+ .text.ble_srv_report_ref_encode
+                0x00000000        0xc _build/ble_srv_common.o
+ .text          0x00000000        0x0 _build/softdevice_handler.o
+ .data          0x00000000        0x0 _build/softdevice_handler.o
+ .text.sd_softdevice_disable
+                0x00000000        0x4 _build/softdevice_handler.o
+ .text.softdevice_handler_sd_disable
+                0x00000000       0x18 _build/softdevice_handler.o
+ .text          0x00000000        0x0 _build/ble_advdata.o
+ .data          0x00000000        0x0 _build/ble_advdata.o
+ .bss           0x00000000        0x0 _build/ble_advdata.o
+ .text          0x00000000        0x0 _build/ble_conn_params.o
+ .data          0x00000000        0x0 _build/ble_conn_params.o
+ .text.ble_conn_params_stop
+                0x00000000       0x10 _build/ble_conn_params.o
+ .text.ble_conn_params_change_conn_params
+                0x00000000       0x5c _build/ble_conn_params.o
+ .text          0x00000000        0x0 _build/app_timer.o
+ .data          0x00000000        0x0 _build/app_timer.o
+ .text.app_timer_stop_all
+                0x00000000       0x48 _build/app_timer.o
+ .text.app_timer_cnt_get
+                0x00000000       0x14 _build/app_timer.o
+ .text.app_timer_cnt_diff_compute
+                0x00000000        0xc _build/app_timer.o
+ .text          0x00000000        0x0 _build/pstorage.o
+ .data          0x00000000        0x0 _build/pstorage.o
+ .text.pstorage_access_status_get
+                0x00000000       0x28 _build/pstorage.o
+ .text          0x00000000        0x0 _build/device_manager_peripheral.o
+ .data          0x00000000        0x0 _build/device_manager_peripheral.o
+ .text.sd_ble_gap_authenticate
+                0x00000000        0x4 _build/device_manager_peripheral.o
+ .text.device_instance_free
+                0x00000000       0x30 _build/device_manager_peripheral.o
+ .text.dm_security_setup_req
+                0x00000000       0x58 _build/device_manager_peripheral.o
+ .text.dm_security_status_req
+                0x00000000       0x6c _build/device_manager_peripheral.o
+ .text.dm_whitelist_create
+                0x00000000       0x90 _build/device_manager_peripheral.o
+ .text.dm_device_add
+                0x00000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_device_delete
+                0x00000000       0x58 _build/device_manager_peripheral.o
+ .text.dm_device_delete_all
+                0x00000000       0x54 _build/device_manager_peripheral.o
+ .text.dm_service_context_set
+                0x00000000       0xa0 _build/device_manager_peripheral.o
+ .text.dm_service_context_get
+                0x00000000       0xb8 _build/device_manager_peripheral.o
+ .text.dm_service_context_delete
+                0x00000000       0x58 _build/device_manager_peripheral.o
+ .text.dm_application_context_set
+                0x00000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_application_context_get
+                0x00000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_application_context_delete
+                0x00000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_application_instance_set
+                0x00000000       0x34 _build/device_manager_peripheral.o
+ .text.dm_handle_initialize
+                0x00000000       0x1c _build/device_manager_peripheral.o
+ .text.dm_peer_addr_set
+                0x00000000       0x8c _build/device_manager_peripheral.o
+ .text.dm_peer_addr_get
+                0x00000000       0x88 _build/device_manager_peripheral.o
+ .text          0x00000000        0x0 _build/app_gpiote.o
+ .data          0x00000000        0x0 _build/app_gpiote.o
+ .text.app_gpiote_user_disable
+                0x00000000       0x44 _build/app_gpiote.o
+ .text.app_gpiote_pins_state_get
+                0x00000000       0x34 _build/app_gpiote.o
+ .text          0x00000000        0x0 _build/nrf_delay.o
+ .data          0x00000000        0x0 _build/nrf_delay.o
+ .bss           0x00000000        0x0 _build/nrf_delay.o
+ .text          0x00000000        0x0 _build/app_scheduler.o
+ .data          0x00000000        0x0 _build/app_scheduler.o
+ .text          0x00000000        0x0 _build/system_nrf51.o
+ .data          0x00000000        0x4 _build/system_nrf51.o
+ .bss           0x00000000        0x0 _build/system_nrf51.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x10 _build/system_nrf51.o
+ .data          0x00000000        0x0 _build/gcc_startup_nrf51.o
+ .bss           0x00000000        0x0 _build/gcc_startup_nrf51.o
+ .ARM.extab     0x00000000        0x0 _build/gcc_startup_nrf51.o
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0x74 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .text          0x00000000       0x54 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .debug_frame   0x00000000       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(eqsf2.o)
+ .text          0x00000000       0x94 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .debug_frame   0x00000000       0x30 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(gesf2.o)
+ .text          0x00000000       0x8c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .debug_frame   0x00000000       0x30 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(lesf2.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x14 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x14 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000000       0x40 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x40 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strcpy.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000      0x108 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xcc /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .jcr           0x00000000        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00016000         0x0002a000         xr
+RAM              0x20002000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD _build/utils.o
+LOAD _build/ble_ambient.o
+LOAD _build/main.o
+LOAD _build/init.o
+LOAD _build/pr.o
+LOAD _build/temp.o
+LOAD _build/hum.o
+LOAD _build/sd_card.o
+LOAD _build/nrf_pwm.o
+LOAD _build/fhp_gpio.o
+LOAD _build/spi_fhp_master.o
+LOAD _build/bme280.o
+LOAD _build/max1161x.o
+LOAD _build/SEGGER_RTT.o
+LOAD _build/max17048.o
+LOAD _build/mpu9x50.o
+LOAD _build/pca9538.o
+LOAD _build/ff.o
+LOAD _build/diskio.o
+LOAD _build/battery.o
+LOAD _build/twi_hw_master.o
+LOAD _build/ble_dis.o
+LOAD _build/ble_srv_common.o
+LOAD _build/softdevice_handler.o
+LOAD _build/ble_advdata.o
+LOAD _build/ble_conn_params.o
+LOAD _build/app_timer.o
+LOAD _build/pstorage.o
+LOAD _build/device_manager_peripheral.o
+LOAD _build/app_gpiote.o
+LOAD _build/nrf_delay.o
+LOAD _build/app_scheduler.o
+LOAD _build/system_nrf51.o
+LOAD _build/gcc_startup_nrf51.o
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libm.a
+START GROUP
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+START GROUP
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+
+.text           0x00016000     0x970f
+ *(.Vectors)
+ .Vectors       0x00016000       0xc0 _build/gcc_startup_nrf51.o
+                0x00016000                __Vectors
+ *(.text*)
+ .text          0x000160c0       0x78 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x000160c0                _mainCRTStartup
+                0x000160c0                _start
+ .text.msec_to_ticks
+                0x00016138        0x4 _build/utils.o
+                0x00016138                msec_to_ticks
+ .text.check_ble_service_err_code
+                0x0001613c       0x48 _build/utils.o
+                0x0001613c                check_ble_service_err_code
+ .text.log_to_sd
+                0x00016184       0x6c _build/utils.o
+                0x00016184                log_to_sd
+ .text.sd_ble_gatts_service_add
+                0x000161f0        0x4 _build/ble_ambient.o
+ .text.sd_ble_gatts_characteristic_add
+                0x000161f4        0x4 _build/ble_ambient.o
+ .text.sd_ble_gatts_value_set
+                0x000161f8        0x4 _build/ble_ambient.o
+ .text.sd_ble_gatts_hvx
+                0x000161fc        0x4 _build/ble_ambient.o
+ .text.sd_ble_uuid_vs_add
+                0x00016200        0x4 _build/ble_ambient.o
+ .text.ble_ambient_init
+                0x00016204      0x2a4 _build/ble_ambient.o
+                0x00016204                ble_ambient_init
+ .text.ble_ambient_sensor_update
+                0x000164a8       0x98 _build/ble_ambient.o
+                0x000164a8                ble_ambient_sensor_update
+ .text.ble_ambient_config_update
+                0x00016540       0x52 _build/ble_ambient.o
+                0x00016540                ble_ambient_config_update
+ .text.ble_ambient_on_ble_evt
+                0x00016592       0xa6 _build/ble_ambient.o
+                0x00016592                ble_ambient_on_ble_evt
+ .text.sd_ble_gap_adv_start
+                0x00016638        0x4 _build/main.o
+ .text.sd_app_evt_wait
+                0x0001663c        0x4 _build/main.o
+ .text.setup    0x00016640      0x174 _build/main.o
+ .text.app_error_handler
+                0x000167b4       0x9c _build/main.o
+                0x000167b4                app_error_handler
+ .text.HardFault_Handler
+                0x00016850       0x3c _build/main.o
+                0x00016850                HardFault_Handler
+ .text.assert_nrf_callback
+                0x0001688c       0x4c _build/main.o
+                0x0001688c                assert_nrf_callback
+ .text.conn_params_error_handler
+                0x000168d8       0x10 _build/main.o
+                0x000168d8                conn_params_error_handler
+ .text.on_conn_params_evt
+                0x000168e8       0x24 _build/main.o
+                0x000168e8                on_conn_params_evt
+ .text.advertising_start
+                0x0001690c       0x54 _build/main.o
+                0x0001690c                advertising_start
+ .text.on_ble_evt
+                0x00016960       0xe8 _build/main.o
+ .text.device_manager_evt_handler
+                0x00016a48       0x18 _build/main.o
+                0x00016a48                device_manager_evt_handler
+ .text.ble_evt_dispatch
+                0x00016a60       0x24 _build/main.o
+                0x00016a60                ble_evt_dispatch
+ .text.sys_evt_dispatch
+                0x00016a84        0x8 _build/main.o
+                0x00016a84                sys_evt_dispatch
+ .text.ble_amb_evt
+                0x00016a8c       0xc8 _build/main.o
+                0x00016a8c                ble_amb_evt
+ .text.base_timer_handler
+                0x00016b54       0x44 _build/main.o
+                0x00016b54                base_timer_handler
+ .text.watchdog_timer_handler
+                0x00016b98       0x14 _build/main.o
+                0x00016b98                watchdog_timer_handler
+ .text.log2sd   0x00016bac       0x74 _build/main.o
+                0x00016bac                log2sd
+ .text.startup.main
+                0x00016c20       0x38 _build/main.o
+                0x00016c20                main
+ .text.sd_ble_gap_tx_power_set
+                0x00016c58        0x4 _build/init.o
+ .text.sd_ble_gap_appearance_set
+                0x00016c5c        0x4 _build/init.o
+ .text.sd_ble_gap_ppcp_set
+                0x00016c60        0x4 _build/init.o
+ .text.sd_ble_gap_device_name_set
+                0x00016c64        0x4 _build/init.o
+ .text.sd_ble_enable
+                0x00016c68        0x4 _build/init.o
+ .text.sd_ble_opt_set
+                0x00016c6c        0x4 _build/init.o
+ .text.gpio_init
+                0x00016c70       0x60 _build/init.o
+                0x00016c70                gpio_init
+ .text.leds_init
+                0x00016cd0       0x28 _build/init.o
+                0x00016cd0                leds_init
+ .text.timers_init
+                0x00016cf8       0x84 _build/init.o
+                0x00016cf8                timers_init
+ .text.gpiote_init
+                0x00016d7c       0x78 _build/init.o
+                0x00016d7c                gpiote_init
+ .text.ble_stack_init
+                0x00016df4       0x98 _build/init.o
+                0x00016df4                ble_stack_init
+ .text.scheduler_init
+                0x00016e8c       0x24 _build/init.o
+                0x00016e8c                scheduler_init
+ .text.device_manager_init
+                0x00016eb0       0x80 _build/init.o
+                0x00016eb0                device_manager_init
+ .text.gap_params_init
+                0x00016f30       0x5c _build/init.o
+                0x00016f30                gap_params_init
+ .text.services_init
+                0x00016f8c       0x7c _build/init.o
+                0x00016f8c                services_init
+ .text.advertising_init
+                0x00017008       0x4c _build/init.o
+                0x00017008                advertising_init
+ .text.conn_params_init
+                0x00017054       0x54 _build/init.o
+                0x00017054                conn_params_init
+ .text.drivers_init
+                0x000170a8       0x9c _build/init.o
+                0x000170a8                drivers_init
+ .text.sensors_init
+                0x00017144       0xb8 _build/init.o
+                0x00017144                sensors_init
+ .text.watchdog_init
+                0x000171fc       0x54 _build/init.o
+                0x000171fc                watchdog_init
+ .text.application_work_start
+                0x00017250       0x60 _build/init.o
+                0x00017250                application_work_start
+ .text.application_work_stop
+                0x000172b0       0x3c _build/init.o
+                0x000172b0                application_work_stop
+ .text.pr_init  0x000172ec       0x30 _build/pr.o
+                0x000172ec                pr_init
+ .text.pr_configs_update
+                0x0001731c       0x98 _build/pr.o
+                0x0001731c                pr_configs_update
+ .text.pr_values_handler
+                0x000173b4       0x58 _build/pr.o
+                0x000173b4                pr_values_handler
+ .text.pr_timer_handler
+                0x0001740c       0x84 _build/pr.o
+                0x0001740c                pr_timer_handler
+ .text.pr_reset_configs
+                0x00017490       0x70 _build/pr.o
+                0x00017490                pr_reset_configs
+ .text.temp_init
+                0x00017500       0x30 _build/temp.o
+                0x00017500                temp_init
+ .text.temp_configs_update
+                0x00017530       0x90 _build/temp.o
+                0x00017530                temp_configs_update
+ .text.temp_values_handler
+                0x000175c0       0x58 _build/temp.o
+                0x000175c0                temp_values_handler
+ .text.temp_timer_handler
+                0x00017618       0x84 _build/temp.o
+                0x00017618                temp_timer_handler
+ .text.temp_reset_configs
+                0x0001769c       0x70 _build/temp.o
+                0x0001769c                temp_reset_configs
+ .text.hum_init
+                0x0001770c       0x30 _build/hum.o
+                0x0001770c                hum_init
+ .text.hum_configs_update
+                0x0001773c       0x90 _build/hum.o
+                0x0001773c                hum_configs_update
+ .text.hum_values_handler
+                0x000177cc       0x58 _build/hum.o
+                0x000177cc                hum_values_handler
+ .text.hum_timer_handler
+                0x00017824       0x84 _build/hum.o
+                0x00017824                hum_timer_handler
+ .text.hum_reset_configs
+                0x000178a8       0x70 _build/hum.o
+                0x000178a8                hum_reset_configs
+ .text.nrf_delay_us.constprop.0
+                0x00017918       0x26 _build/sd_card.o
+ *fill*         0x0001793e        0x2 
+ .text.spi_init
+                0x00017940       0x2c _build/sd_card.o
+                0x00017940                spi_init
+ .text.send_mmc
+                0x0001796c       0x28 _build/sd_card.o
+                0x0001796c                send_mmc
+ .text.receive_mmc
+                0x00017994       0x38 _build/sd_card.o
+                0x00017994                receive_mmc
+ .text.wait_ready
+                0x000179cc       0x2c _build/sd_card.o
+                0x000179cc                wait_ready
+ .text.deselect
+                0x000179f8       0x1c _build/sd_card.o
+                0x000179f8                deselect
+ .text.select   0x00017a14       0x30 _build/sd_card.o
+                0x00017a14                select
+ .text.receive_datablock
+                0x00017a44       0x48 _build/sd_card.o
+                0x00017a44                receive_datablock
+ .text.send_datablock
+                0x00017a8c       0x4c _build/sd_card.o
+                0x00017a8c                send_datablock
+ .text.send_cmd
+                0x00017ad8       0x94 _build/sd_card.o
+                0x00017ad8                send_cmd
+ .text.sd_ppi_channel_enable_set
+                0x00017b6c        0x4 _build/nrf_pwm.o
+ .text.sd_ppi_channel_assign
+                0x00017b70        0x4 _build/nrf_pwm.o
+ .text.sd_radio_session_open
+                0x00017b74        0x4 _build/nrf_pwm.o
+ .text.sd_radio_request
+                0x00017b78        0x4 _build/nrf_pwm.o
+ .text.safe_margins_present
+                0x00017b7c       0x3c _build/nrf_pwm.o
+ .text.ppi_enable_channel
+                0x00017bb8       0x18 _build/nrf_pwm.o
+ .text.nrf_gpiote_task_config.constprop.2
+                0x00017bd0       0x44 _build/nrf_pwm.o
+ .text.nrf_pwm_init
+                0x00017c14      0x208 _build/nrf_pwm.o
+                0x00017c14                nrf_pwm_init
+ .text.nrf_pwm_set_value
+                0x00017e1c       0x38 _build/nrf_pwm.o
+                0x00017e1c                nrf_pwm_set_value
+ .text.nrf_pwm_set_enabled
+                0x00017e54       0x78 _build/nrf_pwm.o
+                0x00017e54                nrf_pwm_set_enabled
+ .text.TIMER2_IRQHandler
+                0x00017ecc      0x21c _build/nrf_pwm.o
+                0x00017ecc                TIMER2_IRQHandler
+ .text.nrf_radio_signal_callback
+                0x000180e8       0x20 _build/nrf_pwm.o
+                0x000180e8                nrf_radio_signal_callback
+ .text.timer_handler
+                0x00018108       0x88 _build/fhp_gpio.o
+ .text.clear_pwm_pin
+                0x00018190       0x9c _build/fhp_gpio.o
+ .text.fhp_gpio_config
+                0x0001822c      0x128 _build/fhp_gpio.o
+ .text.fhp_gpio_init
+                0x00018354       0x34 _build/fhp_gpio.o
+                0x00018354                fhp_gpio_init
+ .text.fhp_gpio_set
+                0x00018388       0x2c _build/fhp_gpio.o
+                0x00018388                fhp_gpio_set
+ .text.fhp_gpio_clear
+                0x000183b4       0x30 _build/fhp_gpio.o
+                0x000183b4                fhp_gpio_clear
+ .text.fhp_gpio_blink
+                0x000183e4       0x38 _build/fhp_gpio.o
+                0x000183e4                fhp_gpio_blink
+ .text.fhp_gpio_fade
+                0x0001841c       0x3c _build/fhp_gpio.o
+                0x0001841c                fhp_gpio_fade
+ .text.spi_master_init
+                0x00018458       0xb8 _build/spi_fhp_master.o
+                0x00018458                spi_master_init
+ .text.spi_master_tx_rx
+                0x00018510       0x88 _build/spi_fhp_master.o
+                0x00018510                spi_master_tx_rx
+ .text.BME280_I2C_bus_write
+                0x00018598       0x7a _build/bme280.o
+                0x00018598                BME280_I2C_bus_write
+ .text.BME280_delay_msek
+                0x00018612        0x8 _build/bme280.o
+                0x00018612                BME280_delay_msek
+ .text.BME280_I2C_bus_read
+                0x0001861a       0x54 _build/bme280.o
+                0x0001861a                BME280_I2C_bus_read
+ *fill*         0x0001866e        0x2 
+ .text.bme280_read_uncomp_temperature
+                0x00018670       0x44 _build/bme280.o
+                0x00018670                bme280_read_uncomp_temperature
+ .text.bme280_compensate_temperature_int32
+                0x000186b4       0x3c _build/bme280.o
+                0x000186b4                bme280_compensate_temperature_int32
+ .text.bme280_read_uncomp_pressure
+                0x000186f0       0x44 _build/bme280.o
+                0x000186f0                bme280_read_uncomp_pressure
+ .text.bme280_compensate_pressure_int32
+                0x00018734       0xb0 _build/bme280.o
+                0x00018734                bme280_compensate_pressure_int32
+ .text.bme280_read_uncomp_humidity
+                0x000187e4       0x3c _build/bme280.o
+                0x000187e4                bme280_read_uncomp_humidity
+ .text.bme280_compensate_humidity_int32
+                0x00018820       0x80 _build/bme280.o
+                0x00018820                bme280_compensate_humidity_int32
+ .text.bme280_get_calib_param
+                0x000188a0      0x114 _build/bme280.o
+                0x000188a0                bme280_get_calib_param
+ .text.bme280_init
+                0x000189b4       0x38 _build/bme280.o
+                0x000189b4                bme280_init
+ .text.bme280_get_power_mode
+                0x000189ec       0x38 _build/bme280.o
+                0x000189ec                bme280_get_power_mode
+ .text.bme280_set_soft_rst
+                0x00018a24       0x2c _build/bme280.o
+                0x00018a24                bme280_set_soft_rst
+ .text.bme280_write_register
+                0x00018a50       0x28 _build/bme280.o
+                0x00018a50                bme280_write_register
+ .text.bme280_read_register
+                0x00018a78       0x28 _build/bme280.o
+                0x00018a78                bme280_read_register
+ .text.bme280_set_oversamp_temperature
+                0x00018aa0       0xe4 _build/bme280.o
+                0x00018aa0                bme280_set_oversamp_temperature
+ .text.bme280_set_oversamp_pressure
+                0x00018b84       0xe8 _build/bme280.o
+                0x00018b84                bme280_set_oversamp_pressure
+ .text.bme280_set_oversamp_humidity
+                0x00018c6c      0x118 _build/bme280.o
+                0x00018c6c                bme280_set_oversamp_humidity
+ .text.bme280_set_power_mode
+                0x00018d84       0xdc _build/bme280.o
+                0x00018d84                bme280_set_power_mode
+ .text.bme280_set_filter
+                0x00018e60       0xf0 _build/bme280.o
+                0x00018e60                bme280_set_filter
+ .text.bme280_init_nrf51
+                0x00018f50       0x74 _build/bme280.o
+                0x00018f50                bme280_init_nrf51
+ .text.bme280_read_temperature
+                0x00018fc4       0x38 _build/bme280.o
+                0x00018fc4                bme280_read_temperature
+ .text.bme280_read_pressure
+                0x00018ffc       0x38 _build/bme280.o
+                0x00018ffc                bme280_read_pressure
+ .text.bme280_read_humidity
+                0x00019034       0x38 _build/bme280.o
+                0x00019034                bme280_read_humidity
+ .text.max1161x_write_data
+                0x0001906c       0x28 _build/max1161x.o
+                0x0001906c                max1161x_write_data
+ .text.max1161x_init
+                0x00019094       0x28 _build/max1161x.o
+                0x00019094                max1161x_init
+ .text.SEGGER_RTT_Write
+                0x000190bc       0xcc _build/SEGGER_RTT.o
+                0x000190bc                SEGGER_RTT_Write
+ .text.SEGGER_RTT_WriteString
+                0x00019188       0x1a _build/SEGGER_RTT.o
+                0x00019188                SEGGER_RTT_WriteString
+ *fill*         0x000191a2        0x2 
+ .text.max17048_write_data
+                0x000191a4       0x4c _build/max17048.o
+                0x000191a4                max17048_write_data
+ .text.max17048_read_data
+                0x000191f0       0x6c _build/max17048.o
+                0x000191f0                max17048_read_data
+ .text.max17048_clear_alert
+                0x0001925c       0x44 _build/max17048.o
+                0x0001925c                max17048_clear_alert
+ .text.max17048_init
+                0x000192a0       0x98 _build/max17048.o
+                0x000192a0                max17048_init
+ .text.max17048_read_soc
+                0x00019338       0x18 _build/max17048.o
+                0x00019338                max17048_read_soc
+ .text.max17048_get_alert
+                0x00019350       0x58 _build/max17048.o
+                0x00019350                max17048_get_alert
+ .text.read_mult
+                0x000193a8       0x74 _build/mpu9x50.o
+                0x000193a8                read_mult
+ .text.read     0x0001941c        0xa _build/mpu9x50.o
+                0x0001941c                read
+ .text.get16    0x00019426       0x1e _build/mpu9x50.o
+                0x00019426                get16
+ .text.write_mult
+                0x00019444       0x54 _build/mpu9x50.o
+                0x00019444                write_mult
+ .text.write    0x00019498       0x12 _build/mpu9x50.o
+                0x00019498                write
+ .text.writeBits
+                0x000194aa       0x44 _build/mpu9x50.o
+                0x000194aa                writeBits
+ .text.mpu9x50_setI2cSlaveAddress.part.2
+                0x000194ee       0x16 _build/mpu9x50.o
+ .text.mpu9x50_setI2cSlaveTransactionLength.part.5
+                0x00019504       0x14 _build/mpu9x50.o
+ .text.writeBit
+                0x00019518        0xc _build/mpu9x50.o
+                0x00019518                writeBit
+ .text.set16    0x00019524       0x14 _build/mpu9x50.o
+                0x00019524                set16
+ .text.mpu9x50_reset
+                0x00019538        0xe _build/mpu9x50.o
+                0x00019538                mpu9x50_reset
+ .text.mpu9x50_disableTemperatureSensor
+                0x00019546        0xe _build/mpu9x50.o
+                0x00019546                mpu9x50_disableTemperatureSensor
+ .text.mpu9x50_clockSelect
+                0x00019554       0x10 _build/mpu9x50.o
+                0x00019554                mpu9x50_clockSelect
+ .text.mpu9x50_setStandbyAccX
+                0x00019564        0xe _build/mpu9x50.o
+                0x00019564                mpu9x50_setStandbyAccX
+ .text.mpu9x50_setStandbyAccY
+                0x00019572        0xe _build/mpu9x50.o
+                0x00019572                mpu9x50_setStandbyAccY
+ .text.mpu9x50_setStandbyAccZ
+                0x00019580        0xe _build/mpu9x50.o
+                0x00019580                mpu9x50_setStandbyAccZ
+ .text.mpu9x50_setStandbyGyroX
+                0x0001958e        0xe _build/mpu9x50.o
+                0x0001958e                mpu9x50_setStandbyGyroX
+ .text.mpu9x50_setStandbyGyroY
+                0x0001959c        0xe _build/mpu9x50.o
+                0x0001959c                mpu9x50_setStandbyGyroY
+ .text.mpu9x50_setStandbyGyroZ
+                0x000195aa        0xe _build/mpu9x50.o
+                0x000195aa                mpu9x50_setStandbyGyroZ
+ .text.mpu9x50_setSampleRateDivider
+                0x000195b8        0xc _build/mpu9x50.o
+                0x000195b8                mpu9x50_setSampleRateDivider
+ .text.mpu9x50_setGyroscopeDigitalLowPassFilter
+                0x000195c4       0x10 _build/mpu9x50.o
+                0x000195c4                mpu9x50_setGyroscopeDigitalLowPassFilter
+ .text.mpu9x50_setAccelerometerDigitalLowPassFilter
+                0x000195d4       0x10 _build/mpu9x50.o
+                0x000195d4                mpu9x50_setAccelerometerDigitalLowPassFilter
+ .text.mpu9x50_setGyroFullScaleRange
+                0x000195e4       0x10 _build/mpu9x50.o
+                0x000195e4                mpu9x50_setGyroFullScaleRange
+ .text.mpu9x50_setAccelFullScaleRange
+                0x000195f4       0x10 _build/mpu9x50.o
+                0x000195f4                mpu9x50_setAccelFullScaleRange
+ .text.mpu9x50_setXGyroOffset
+                0x00019604        0xc _build/mpu9x50.o
+                0x00019604                mpu9x50_setXGyroOffset
+ .text.mpu9x50_setYGyroOffset
+                0x00019610        0xc _build/mpu9x50.o
+                0x00019610                mpu9x50_setYGyroOffset
+ .text.mpu9x50_setZGyroOffset
+                0x0001961c        0xc _build/mpu9x50.o
+                0x0001961c                mpu9x50_setZGyroOffset
+ .text.mpu9x50_setGyroOffsets
+                0x00019628       0x28 _build/mpu9x50.o
+                0x00019628                mpu9x50_setGyroOffsets
+ .text.mpu9x50_setXAccelOffset
+                0x00019650       0x2c _build/mpu9x50.o
+                0x00019650                mpu9x50_setXAccelOffset
+ .text.mpu9x50_setYAccelOffset
+                0x0001967c       0x2c _build/mpu9x50.o
+                0x0001967c                mpu9x50_setYAccelOffset
+ .text.mpu9x50_setZAccelOffset
+                0x000196a8       0x2c _build/mpu9x50.o
+                0x000196a8                mpu9x50_setZAccelOffset
+ .text.mpu9x50_setAccOffsets
+                0x000196d4       0x28 _build/mpu9x50.o
+                0x000196d4                mpu9x50_setAccOffsets
+ .text.mpu9x50_setGyroFifo
+                0x000196fc       0x24 _build/mpu9x50.o
+                0x000196fc                mpu9x50_setGyroFifo
+ .text.mpu9x50_setAccelFifo
+                0x00019720        0xe _build/mpu9x50.o
+                0x00019720                mpu9x50_setAccelFifo
+ .text.mpu9x50_setI2cSlaveDelay
+                0x0001972e       0x14 _build/mpu9x50.o
+                0x0001972e                mpu9x50_setI2cSlaveDelay
+ .text.mpu9x50_setI2cMasterDelay
+                0x00019742       0x10 _build/mpu9x50.o
+                0x00019742                mpu9x50_setI2cMasterDelay
+ *fill*         0x00019752        0x2 
+ .text.mpu9x50_initMagnetometer
+                0x00019754       0x78 _build/mpu9x50.o
+                0x00019754                mpu9x50_initMagnetometer
+ .text.mpu9x50_setInterruptDataReadyEnable
+                0x000197cc        0xe _build/mpu9x50.o
+                0x000197cc                mpu9x50_setInterruptDataReadyEnable
+ .text.mpu9x50_setEnableFifo
+                0x000197da        0xe _build/mpu9x50.o
+                0x000197da                mpu9x50_setEnableFifo
+ .text.mpu9x50_setFifoReset
+                0x000197e8        0xe _build/mpu9x50.o
+                0x000197e8                mpu9x50_setFifoReset
+ *fill*         0x000197f6        0x2 
+ .text.mpu9x50_fifoCtrl
+                0x000197f8       0x2c _build/mpu9x50.o
+                0x000197f8                mpu9x50_fifoCtrl
+ .text.mpu9x50_enableAccelerometer
+                0x00019824       0x58 _build/mpu9x50.o
+                0x00019824                mpu9x50_enableAccelerometer
+ .text.mpu9x50_init
+                0x0001987c       0x9c _build/mpu9x50.o
+                0x0001987c                mpu9x50_init
+ .text.check_init
+                0x00019918       0x28 _build/mpu9x50.o
+ .text.mpu9x50_enableGyroscope
+                0x00019940       0x58 _build/mpu9x50.o
+                0x00019940                mpu9x50_enableGyroscope
+ .text.nrf_delay_us.constprop.1
+                0x00019998       0x26 _build/pca9538.o
+ *fill*         0x000199be        0x2 
+ .text.pca9538_write
+                0x000199c0       0x30 _build/pca9538.o
+                0x000199c0                pca9538_write
+ .text.pca9538_init
+                0x000199f0       0x4c _build/pca9538.o
+                0x000199f0                pca9538_init
+ .text.mem_cpy  0x00019a3c       0x12 _build/ff.o
+ .text.mem_set  0x00019a4e        0xe _build/ff.o
+ .text.get_ldnumber
+                0x00019a5c       0x30 _build/ff.o
+ .text.validate
+                0x00019a8c       0x2e _build/ff.o
+ .text.ld_clust.isra.0
+                0x00019aba       0x1c _build/ff.o
+ .text.sync_window.part.2
+                0x00019ad6       0x4a _build/ff.o
+ .text.sync_window
+                0x00019b20       0x14 _build/ff.o
+ .text.sync_fs  0x00019b34       0xe4 _build/ff.o
+ .text.move_window
+                0x00019c18       0x34 _build/ff.o
+ .text.check_fs
+                0x00019c4c       0xa4 _build/ff.o
+ .text.find_volume
+                0x00019cf0      0x388 _build/ff.o
+ .text.clust2sect
+                0x0001a078       0x18 _build/ff.o
+                0x0001a078                clust2sect
+ .text.get_fat  0x0001a090       0xd8 _build/ff.o
+                0x0001a090                get_fat
+ .text.dir_sdi  0x0001a168       0x86 _build/ff.o
+ .text.put_fat  0x0001a1ee      0x10c _build/ff.o
+                0x0001a1ee                put_fat
+ *fill*         0x0001a2fa        0x2 
+ .text.create_chain
+                0x0001a2fc       0xb0 _build/ff.o
+ .text.dir_next
+                0x0001a3ac       0xe8 _build/ff.o
+ .text.follow_path
+                0x0001a494      0x1e0 _build/ff.o
+ .text.dir_register
+                0x0001a674       0x62 _build/ff.o
+ .text.remove_chain
+                0x0001a6d6       0x5a _build/ff.o
+ .text.f_mount  0x0001a730       0x50 _build/ff.o
+                0x0001a730                f_mount
+ .text.f_open   0x0001a780      0x12e _build/ff.o
+                0x0001a780                f_open
+ .text.f_write  0x0001a8ae      0x182 _build/ff.o
+                0x0001a8ae                f_write
+ .text.f_sync   0x0001aa30       0x70 _build/ff.o
+                0x0001aa30                f_sync
+ .text.f_close  0x0001aaa0       0x1a _build/ff.o
+                0x0001aaa0                f_close
+ .text.f_lseek  0x0001aaba      0x100 _build/ff.o
+                0x0001aaba                f_lseek
+ .text.nrf_delay_us.constprop.0
+                0x0001abba       0x28 _build/diskio.o
+ *fill*         0x0001abe2        0x2 
+ .text.disk_status
+                0x0001abe4       0x14 _build/diskio.o
+                0x0001abe4                disk_status
+ .text.disk_initialize
+                0x0001abf8       0xfc _build/diskio.o
+                0x0001abf8                disk_initialize
+ .text.disk_read
+                0x0001acf4       0x74 _build/diskio.o
+                0x0001acf4                disk_read
+ .text.disk_write
+                0x0001ad68       0x98 _build/diskio.o
+                0x0001ad68                disk_write
+ .text.disk_ioctl
+                0x0001ae00       0xc0 _build/diskio.o
+                0x0001ae00                disk_ioctl
+ .text.induction_charging.part.0
+                0x0001aec0       0x3c _build/battery.o
+ .text.wired_charging.part.1
+                0x0001aefc       0x3c _build/battery.o
+ .text.battery_init
+                0x0001af38       0x18 _build/battery.o
+                0x0001af38                battery_init
+ .text.induction_charging
+                0x0001af50       0x38 _build/battery.o
+                0x0001af50                induction_charging
+ .text.wired_charging
+                0x0001af88       0x38 _build/battery.o
+                0x0001af88                wired_charging
+ .text.battery_charge_handler
+                0x0001afc0       0x68 _build/battery.o
+                0x0001afc0                battery_charge_handler
+ .text.gauge_timer_handler
+                0x0001b028       0xb8 _build/battery.o
+                0x0001b028                gauge_timer_handler
+ .text.enable_high_voltage
+                0x0001b0e0       0x20 _build/battery.o
+                0x0001b0e0                enable_high_voltage
+ .text.nrf_delay_us
+                0x0001b100       0x2e _build/twi_hw_master.o
+ *fill*         0x0001b12e        0x2 
+ .text.twi_master_clear_bus
+                0x0001b130       0xb8 _build/twi_hw_master.o
+ .text.twi_master_init
+                0x0001b1e8       0x74 _build/twi_hw_master.o
+                0x0001b1e8                twi_master_init
+ .text.twi_master_transfer
+                0x0001b25c      0x174 _build/twi_hw_master.o
+                0x0001b25c                twi_master_transfer
+ .text.sd_ble_gatts_service_add
+                0x0001b3d0        0x4 _build/ble_dis.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0001b3d4        0x4 _build/ble_dis.o
+ .text.char_add
+                0x0001b3d8       0x88 _build/ble_dis.o
+ .text.ble_dis_init
+                0x0001b460      0x19c _build/ble_dis.o
+                0x0001b460                ble_dis_init
+ .text.ble_srv_ascii_to_utf8
+                0x0001b5fc       0x12 _build/ble_srv_common.o
+                0x0001b5fc                ble_srv_ascii_to_utf8
+ .text.sd_nvic_EnableIRQ
+                0x0001b60e        0x4 _build/softdevice_handler.o
+ .text.sd_evt_get
+                0x0001b612        0x4 _build/softdevice_handler.o
+ .text.sd_softdevice_enable
+                0x0001b616        0x4 _build/softdevice_handler.o
+ .text.sd_ble_evt_get
+                0x0001b61a        0x4 _build/softdevice_handler.o
+ .text.softdevice_assertion_handler
+                0x0001b61e        0xc _build/softdevice_handler.o
+                0x0001b61e                softdevice_assertion_handler
+ *fill*         0x0001b62a        0x2 
+ .text.intern_softdevice_events_execute
+                0x0001b62c       0x98 _build/softdevice_handler.o
+                0x0001b62c                intern_softdevice_events_execute
+ .text.softdevice_handler_init
+                0x0001b6c4       0x38 _build/softdevice_handler.o
+                0x0001b6c4                softdevice_handler_init
+ .text.softdevice_ble_evt_handler_set
+                0x0001b6fc       0x14 _build/softdevice_handler.o
+                0x0001b6fc                softdevice_ble_evt_handler_set
+ .text.softdevice_sys_evt_handler_set
+                0x0001b710       0x14 _build/softdevice_handler.o
+                0x0001b710                softdevice_sys_evt_handler_set
+ .text.SWI2_IRQHandler
+                0x0001b724       0x2c _build/softdevice_handler.o
+                0x0001b724                SWI2_IRQHandler
+ .text.sd_ble_gap_adv_data_set
+                0x0001b750        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_appearance_get
+                0x0001b754        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_device_name_get
+                0x0001b758        0x4 _build/ble_advdata.o
+ .text.sd_ble_uuid_encode
+                0x0001b75c        0x4 _build/ble_advdata.o
+ .text.uuid_list_sized_encode
+                0x0001b760       0xaa _build/ble_advdata.o
+ .text.uuid_list_encode
+                0x0001b80a       0x26 _build/ble_advdata.o
+ .text.adv_data_encode
+                0x0001b830      0x2fc _build/ble_advdata.o
+ .text.ble_advdata_set
+                0x0001bb2c       0x70 _build/ble_advdata.o
+                0x0001bb2c                ble_advdata_set
+ .text.sd_ble_gap_conn_param_update
+                0x0001bb9c        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_disconnect
+                0x0001bba0        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_set
+                0x0001bba4        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_get
+                0x0001bba8        0x4 _build/ble_conn_params.o
+ .text.update_timeout_handler
+                0x0001bbac       0x64 _build/ble_conn_params.o
+ .text.conn_params_negotiation
+                0x0001bc10       0x64 _build/ble_conn_params.o
+ .text.ble_conn_params_init
+                0x0001bc74       0x60 _build/ble_conn_params.o
+                0x0001bc74                ble_conn_params_init
+ .text.ble_conn_params_on_ble_evt
+                0x0001bcd4       0x8c _build/ble_conn_params.o
+                0x0001bcd4                ble_conn_params_on_ble_evt
+ .text.user_op_alloc
+                0x0001bd60       0x2a _build/app_timer.o
+ *fill*         0x0001bd8a        0x2 
+ .text.user_id_get
+                0x0001bd8c       0x64 _build/app_timer.o
+ .text.nrf_delay_us.constprop.5
+                0x0001bdf0       0x26 _build/app_timer.o
+ *fill*         0x0001be16        0x2 
+ .text.rtc1_stop
+                0x0001be18       0x40 _build/app_timer.o
+ .text.RTC1_IRQHandler
+                0x0001be58       0xa0 _build/app_timer.o
+                0x0001be58                RTC1_IRQHandler
+ .text.SWI0_IRQHandler
+                0x0001bef8      0x37c _build/app_timer.o
+                0x0001bef8                SWI0_IRQHandler
+ .text.app_timer_init
+                0x0001c274       0xc0 _build/app_timer.o
+                0x0001c274                app_timer_init
+ .text.app_timer_create
+                0x0001c334       0x4c _build/app_timer.o
+                0x0001c334                app_timer_create
+ .text.app_timer_start
+                0x0001c380       0x90 _build/app_timer.o
+                0x0001c380                app_timer_start
+ .text.app_timer_stop
+                0x0001c410       0x60 _build/app_timer.o
+                0x0001c410                app_timer_stop
+ .text.sd_flash_write
+                0x0001c470        0x4 _build/pstorage.o
+ .text.sd_flash_page_erase
+                0x0001c474        0x4 _build/pstorage.o
+ .text.app_notify
+                0x0001c478       0x30 _build/pstorage.o
+ .text.swap_state_process
+                0x0001c4a8      0x1bc _build/pstorage.o
+ .text.cmd_process
+                0x0001c664      0x118 _build/pstorage.o
+ .text.unlikely.cmd_queue_enqueue
+                0x0001c77c       0x54 _build/pstorage.o
+ .text.cmd_queue_dequeue
+                0x0001c7d0       0x20 _build/pstorage.o
+ .text.pstorage_sys_event_handler
+                0x0001c7f0       0xec _build/pstorage.o
+                0x0001c7f0                pstorage_sys_event_handler
+ .text.pstorage_init
+                0x0001c8dc       0xc4 _build/pstorage.o
+                0x0001c8dc                pstorage_init
+ .text.pstorage_register
+                0x0001c9a0      0x11c _build/pstorage.o
+                0x0001c9a0                pstorage_register
+ .text.pstorage_block_identifier_get
+                0x0001cabc       0x5c _build/pstorage.o
+                0x0001cabc                pstorage_block_identifier_get
+ .text.pstorage_store
+                0x0001cb18       0x88 _build/pstorage.o
+                0x0001cb18                pstorage_store
+ .text.pstorage_update
+                0x0001cba0       0x88 _build/pstorage.o
+                0x0001cba0                pstorage_update
+ .text.pstorage_load
+                0x0001cc28       0xac _build/pstorage.o
+                0x0001cc28                pstorage_load
+ .text.pstorage_clear
+                0x0001ccd4       0x6c _build/pstorage.o
+                0x0001ccd4                pstorage_clear
+ .text.sd_ble_gap_sec_params_reply
+                0x0001cd40        0x4 _build/device_manager_peripheral.o
+ .text.sd_ble_gap_sec_info_reply
+                0x0001cd44        0x4 _build/device_manager_peripheral.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0001cd48        0x4 _build/device_manager_peripheral.o
+ .text.sd_ble_gatts_sys_attr_get
+                0x0001cd4c        0x4 _build/device_manager_peripheral.o
+ .text.storage_operation_dummy_handler
+                0x0001cd50        0x4 _build/device_manager_peripheral.o
+ .text.no_service_context_store
+                0x0001cd54        0x4 _build/device_manager_peripheral.o
+ .text.gattc_context_store
+                0x0001cd58        0x4 _build/device_manager_peripheral.o
+ .text.no_service_context_load
+                0x0001cd5c        0x4 _build/device_manager_peripheral.o
+ .text.gattc_context_load
+                0x0001cd60        0x4 _build/device_manager_peripheral.o
+ .text.no_service_context_apply
+                0x0001cd64        0x4 _build/device_manager_peripheral.o
+ .text.gatts_context_apply
+                0x0001cd68       0x4c _build/device_manager_peripheral.o
+ .text.gattc_context_apply
+                0x0001cdb4        0x4 _build/device_manager_peripheral.o
+ .text.gattsc_context_apply
+                0x0001cdb8        0x8 _build/device_manager_peripheral.o
+ .text.gatts_context_store
+                0x0001cdc0       0xac _build/device_manager_peripheral.o
+ .text.gattsc_context_store
+                0x0001ce6c        0x8 _build/device_manager_peripheral.o
+ .text.device_context_store
+                0x0001ce74       0xbc _build/device_manager_peripheral.o
+ .text.gatts_context_load
+                0x0001cf30       0x30 _build/device_manager_peripheral.o
+ .text.gattsc_context_load
+                0x0001cf60        0x8 _build/device_manager_peripheral.o
+ .text.dm_pstorage_cb_handler
+                0x0001cf68      0x130 _build/device_manager_peripheral.o
+ .text.peer_instance_init
+                0x0001d098       0x4c _build/device_manager_peripheral.o
+ .text.dm_init  0x0001d0e4       0xdc _build/device_manager_peripheral.o
+                0x0001d0e4                dm_init
+ .text.dm_register
+                0x0001d1c0       0x58 _build/device_manager_peripheral.o
+                0x0001d1c0                dm_register
+ .text.bond_data_load
+                0x0001d218       0x50 _build/device_manager_peripheral.o
+                0x0001d218                bond_data_load
+ .text.dm_ble_evt_handler
+                0x0001d268      0x354 _build/device_manager_peripheral.o
+                0x0001d268                dm_ble_evt_handler
+ .text.pins_sense_disable
+                0x0001d5bc       0x40 _build/app_gpiote.o
+ .text.sense_level_toggle.isra.0
+                0x0001d5fc       0x4c _build/app_gpiote.o
+ .text.GPIOTE_IRQHandler
+                0x0001d648       0x98 _build/app_gpiote.o
+                0x0001d648                GPIOTE_IRQHandler
+ .text.app_gpiote_init
+                0x0001d6e0       0x68 _build/app_gpiote.o
+                0x0001d6e0                app_gpiote_init
+ .text.app_gpiote_user_register
+                0x0001d748       0x48 _build/app_gpiote.o
+                0x0001d748                app_gpiote_user_register
+ .text.app_gpiote_user_enable
+                0x0001d790       0x98 _build/app_gpiote.o
+                0x0001d790                app_gpiote_user_enable
+ .text.nrf_delay_ms
+                0x0001d828       0x40 _build/nrf_delay.o
+                0x0001d828                nrf_delay_ms
+ .text.sd_nvic_critical_region_enter
+                0x0001d868        0x4 _build/app_scheduler.o
+ .text.sd_nvic_critical_region_exit
+                0x0001d86c        0x4 _build/app_scheduler.o
+ .text.app_sched_init
+                0x0001d870       0x2c _build/app_scheduler.o
+                0x0001d870                app_sched_init
+ .text.app_sched_event_put
+                0x0001d89c      0x12c _build/app_scheduler.o
+                0x0001d89c                app_sched_event_put
+ .text.app_sched_execute
+                0x0001d9c8       0x40 _build/app_scheduler.o
+                0x0001d9c8                app_sched_execute
+ .text.SystemInit
+                0x0001da08       0x8c _build/system_nrf51.o
+                0x0001da08                SystemInit
+ .text          0x0001da94       0x54 _build/gcc_startup_nrf51.o
+                0x0001da94                Reset_Handler
+                0x0001dadc                NMI_Handler
+                0x0001dae0                SVC_Handler
+                0x0001dae2                PendSV_Handler
+                0x0001dae4                SysTick_Handler
+                0x0001dae6                SPI0_TWI0_IRQHandler
+                0x0001dae6                RTC0_IRQHandler
+                0x0001dae6                POWER_CLOCK_IRQHandler
+                0x0001dae6                RADIO_IRQHandler
+                0x0001dae6                LPCOMP_IRQHandler
+                0x0001dae6                SWI4_IRQHandler
+                0x0001dae6                TEMP_IRQHandler
+                0x0001dae6                QDEC_IRQHandler
+                0x0001dae6                UART0_IRQHandler
+                0x0001dae6                SWI5_IRQHandler
+                0x0001dae6                TIMER0_IRQHandler
+                0x0001dae6                TIMER1_IRQHandler
+                0x0001dae6                ECB_IRQHandler
+                0x0001dae6                Default_Handler
+                0x0001dae6                ADC_IRQHandler
+                0x0001dae6                SWI3_IRQHandler
+                0x0001dae6                CCM_AAR_IRQHandler
+                0x0001dae6                WDT_IRQHandler
+                0x0001dae6                RNG_IRQHandler
+                0x0001dae6                SPI1_TWI1_IRQHandler
+                0x0001dae6                SWI1_IRQHandler
+ .text          0x0001dae8       0x14 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+                0x0001dae8                __gnu_thumb1_case_uqi
+ .text          0x0001dafc      0x120 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+                0x0001dafc                __udivsi3
+                0x0001dafc                __aeabi_uidiv
+                0x0001dc08                __aeabi_uidivmod
+ .text          0x0001dc1c      0x1e0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+                0x0001dc1c                __aeabi_idiv
+                0x0001dc1c                __divsi3
+                0x0001dde8                __aeabi_idivmod
+ .text          0x0001ddfc        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0001ddfc                __aeabi_ldiv0
+                0x0001ddfc                __aeabi_idiv0
+ .text          0x0001de00       0x40 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+                0x0001de00                __aeabi_uldivmod
+ .text          0x0001de40       0x6c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+                0x0001de40                __gnu_ldivmod_helper
+                0x0001de78                __gnu_uldivmod_helper
+ .text          0x0001deac       0x54 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+                0x0001deac                __aeabi_lmul
+                0x0001deac                __muldi3
+ .text          0x0001df00      0x1f0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+                0x0001df00                __divdi3
+ .text          0x0001e0f0      0x158 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+                0x0001e0f0                __udivdi3
+ .text          0x0001e248       0x18 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+                0x0001e248                __clzdi2
+ .text          0x0001e260       0x3c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+                0x0001e260                __clzsi2
+ .text.exit     0x0001e29c       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                0x0001e29c                exit
+ .text.__libc_init_array
+                0x0001e2c8       0x4c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                0x0001e2c8                __libc_init_array
+ .text.memcmp   0x0001e314       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcmp.o)
+                0x0001e314                memcmp
+ .text.memcpy   0x0001e332       0x12 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy.o)
+                0x0001e332                memcpy
+ .text.memset   0x0001e344       0x10 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                0x0001e344                memset
+ .text._free_r  0x0001e354       0x8c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                0x0001e354                _free_r
+ .text._malloc_r
+                0x0001e3e0       0xb0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0001e3e0                _malloc_r
+ .text._sbrk_r  0x0001e490       0x24 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                0x0001e490                _sbrk_r
+ .text.sprintf  0x0001e4b4       0x44 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+                0x0001e4b4                sprintf
+                0x0001e4b4                siprintf
+ .text.strcpy   0x0001e4f8       0x10 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strcpy.o)
+                0x0001e4f8                strcpy
+ .text.strlen   0x0001e508        0xe /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+                0x0001e508                strlen
+ *fill*         0x0001e516        0x2 
+ .text.__ssputs_r
+                0x0001e518       0xc0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x0001e518                __ssputs_r
+ .text._svfprintf_r
+                0x0001e5d8      0x1ec /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x0001e5d8                _svfprintf_r
+                0x0001e5d8                _svfiprintf_r
+ .text._printf_common
+                0x0001e7c4       0xdc /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0001e7c4                _printf_common
+ .text._printf_i
+                0x0001e8a0      0x230 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0001e8a0                _printf_i
+ .text.memchr   0x0001ead0       0x16 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr.o)
+                0x0001ead0                memchr
+ .text.memmove  0x0001eae6       0x28 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+                0x0001eae6                memmove
+ .text._realloc_r
+                0x0001eb0e       0x4c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+                0x0001eb0e                _realloc_r
+ .text._malloc_usable_size_r
+                0x0001eb5a       0x16 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+                0x0001eb5a                _malloc_usable_size_r
+ .text._sbrk    0x0001eb70       0x1c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+                0x0001eb70                _sbrk
+ .text._exit    0x0001eb8c        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x0001eb8c                _exit
+ *(.init)
+ .init          0x0001eb90        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x0001eb90                _init
+ .init          0x0001eb94        0x8 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x0001eb9c        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x0001eb9c                _fini
+ .fini          0x0001eba0        0x8 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0001eba8       0x8f _build/utils.o
+ .rodata        0x0001ec37       0x10 _build/ble_ambient.o
+ .rodata.str1.1
+                0x0001ec47      0x3fe _build/main.o
+                                0x403 (size before relaxing)
+ .rodata.str1.1
+                0x0001f045       0xb5 _build/init.o
+ .rodata.str1.1
+                0x0001f0fa       0xe9 _build/pr.o
+ .rodata.str1.1
+                0x0001f1e3      0x106 _build/temp.o
+ .rodata.str1.1
+                0x0001f2e9       0xef _build/hum.o
+ .rodata        0x0001f3d8        0xa _build/nrf_pwm.o
+ .rodata.str1.1
+                0x0001f3e2       0x1f _build/fhp_gpio.o
+ .rodata        0x0001f401        0x3 _build/spi_fhp_master.o
+ .rodata.str1.1
+                0x0001f404        0x9 _build/SEGGER_RTT.o
+ .rodata.str1.1
+                0x0001f40d       0x43 _build/mpu9x50.o
+ .rodata.str1.1
+                0x0001f450       0x43 _build/ff.o
+ .rodata.str1.1
+                0x0001f493       0xf9 _build/battery.o
+ .rodata.str1.1
+                0x0001f58c       0x45 _build/ble_dis.o
+ .rodata.str1.1
+                0x0001f5d1       0x48 _build/softdevice_handler.o
+ .rodata.str1.1
+                0x0001f619       0x40 _build/app_timer.o
+ *fill*         0x0001f659        0x3 
+ .rodata        0x0001f65c       0x34 _build/device_manager_peripheral.o
+                0x0001f65c                m_service_context_store
+                0x0001f66c                m_service_context_load
+                0x0001f67c                m_service_context_apply
+                0x0001f68c                m_context_init_len
+ .rodata.str1.1
+                0x0001f690       0x44 _build/app_scheduler.o
+ .rodata.str1.1
+                0x0001f6d4        0x2 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ *fill*         0x0001f6d6        0x2 
+ .rodata._global_impure_ptr
+                0x0001f6d8        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x0001f6d8                _global_impure_ptr
+ .rodata.str1.1
+                0x0001f6dc       0x11 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x0001f6ed       0x22 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.eh_frame*)
+
+.glue_7         0x0001f710        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0001f710        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0001f710        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0001f710        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0001f710        0x0
+ .iplt          0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0001f710                __exidx_start = .
+
+.ARM.exidx      0x0001f710        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0001f710        0x8 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x0001f718        0x0 _build/gcc_startup_nrf51.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x0001f718        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x0001f718        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x0001f718                __exidx_end = .
+                0x0001f718                __etext = .
+
+.rel.dyn        0x0001f718        0x0
+ .rel.iplt      0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.data           0x20002000      0x124 load address 0x0001f718
+                0x20002000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x20002000        0x2 _build/main.o
+ *fill*         0x20002002        0x2 
+ .data          0x20002004        0x4 _build/nrf_pwm.o
+ .data          0x20002008       0x3c _build/fhp_gpio.o
+ .data          0x20002044       0x78 _build/SEGGER_RTT.o
+ .data          0x200020bc        0x1 _build/mpu9x50.o
+ .data          0x200020bd        0x1 _build/diskio.o
+ *fill*         0x200020be        0x2 
+ .data.impure_data
+                0x200020c0       0x60 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20002120        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x20002120                _impure_ptr
+                0x20002124                . = ALIGN (0x4)
+                0x20002124                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20002124                PROVIDE (__preinit_array_end, .)
+                0x20002124                . = ALIGN (0x4)
+                0x20002124                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20002124                PROVIDE (__init_array_end, .)
+                0x20002124                . = ALIGN (0x4)
+                0x20002124                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20002124                PROVIDE (__fini_array_end, .)
+ *(.jcr)
+                0x20002124                . = ALIGN (0x4)
+                0x20002124                __data_end__ = .
+
+.igot.plt       0x20002124        0x0 load address 0x0001f83c
+ .igot.plt      0x00000000        0x0 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.bss            0x20002128     0x14e8 load address 0x0001f840
+                0x20002128                . = ALIGN (0x4)
+                0x20002128                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20002128       0x30 _build/ble_ambient.o
+ .bss           0x20002158      0x9d4 _build/init.o
+ .bss           0x20002b2c        0x4 _build/sd_card.o
+ .bss           0x20002b30       0x58 _build/nrf_pwm.o
+ .bss           0x20002b88        0x4 _build/bme280.o
+ .bss           0x20002b8c        0x1 _build/max1161x.o
+ .bss           0x20002b8d      0x411 _build/SEGGER_RTT.o
+ .bss           0x20002f9e        0x1 _build/max17048.o
+ *fill*         0x20002f9f        0x1 
+ .bss           0x20002fa0       0x11 _build/mpu9x50.o
+ .bss           0x20002fb1        0x3 _build/pca9538.o
+ .bss           0x20002fb4        0x6 _build/ff.o
+ .bss           0x20002fba        0x1 _build/diskio.o
+ .bss           0x20002fbb        0x2 _build/battery.o
+ *fill*         0x20002fbd        0x1 
+ .bss           0x20002fbe       0x4a _build/ble_dis.o
+ .bss           0x20003008       0x18 _build/softdevice_handler.o
+ .bss           0x20003020       0x35 _build/ble_conn_params.o
+ *fill*         0x20003055        0x3 
+ .bss           0x20003058       0x29 _build/app_timer.o
+ *fill*         0x20003081        0x3 
+ .bss           0x20003084       0xf8 _build/pstorage.o
+ .bss           0x2000317c      0x120 _build/device_manager_peripheral.o
+ .bss           0x2000329c        0xa _build/app_gpiote.o
+ *fill*         0x200032a6        0x2 
+ .bss           0x200032a8        0xe _build/app_scheduler.o
+ *fill*         0x200032b6        0x2 
+ .bss.__malloc_sbrk_start
+                0x200032b8        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x200032b8                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x200032bc        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x200032bc                __malloc_free_list
+ .bss.heap_end.4079
+                0x200032c0        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x200032c4        0x1 _build/utils.o
+                0x200032c4                twi_busy
+ *fill*         0x200032c5        0x3 
+ COMMON         0x200032c8      0x304 _build/main.o
+                0x200032c8                m_gauge_timer_id
+                0x200032cc                m_gpiote_user_ch
+                0x200032d0                m_watchdog_timer_id
+                0x200032d4                m_app_handle
+                0x200032d8                m_pr
+                0x200032f8                high_voltage_on
+                0x20003300                m_hum
+                0x20003320                low_battery
+                0x20003324                m_amb
+                0x20003378                m_temp
+                0x20003398                sd_card
+                0x200035c8                m_base_timer_id
+ COMMON         0x200035cc       0x3c _build/bme280.o
+                0x200035cc                bme280
+ COMMON         0x20003608        0x1 _build/mpu9x50.o
+                0x20003608                device_address
+ *fill*         0x20003609        0x3 
+ COMMON         0x2000360c        0x4 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                0x2000360c                errno
+                0x20003610                . = ALIGN (0x4)
+                0x20003610                __bss_end__ = .
+
+.heap           0x20003610        0x0
+                0x20003610                __end__ = .
+                0x20003610                end = __end__
+ *(.heap*)
+ .heap          0x20003610        0x0 _build/gcc_startup_nrf51.o
+                0x20003610                __HeapLimit = .
+
+.stack_dummy    0x20003610      0x800
+ *(.stack*)
+ .stack         0x20003610      0x800 _build/gcc_startup_nrf51.o
+                0x20004000                __StackTop = (ORIGIN (RAM) + 0x2000)
+                0x20003800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20004000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/setec_s110_xxaa.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x1b /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000039       0x31 _build/utils.o
+ .ARM.attributes
+                0x0000006a       0x31 _build/ble_ambient.o
+ .ARM.attributes
+                0x0000009b       0x31 _build/main.o
+ .ARM.attributes
+                0x000000cc       0x31 _build/init.o
+ .ARM.attributes
+                0x000000fd       0x31 _build/pr.o
+ .ARM.attributes
+                0x0000012e       0x31 _build/temp.o
+ .ARM.attributes
+                0x0000015f       0x31 _build/hum.o
+ .ARM.attributes
+                0x00000190       0x31 _build/sd_card.o
+ .ARM.attributes
+                0x000001c1       0x31 _build/nrf_pwm.o
+ .ARM.attributes
+                0x000001f2       0x31 _build/fhp_gpio.o
+ .ARM.attributes
+                0x00000223       0x31 _build/spi_fhp_master.o
+ .ARM.attributes
+                0x00000254       0x31 _build/bme280.o
+ .ARM.attributes
+                0x00000285       0x31 _build/max1161x.o
+ .ARM.attributes
+                0x000002b6       0x31 _build/SEGGER_RTT.o
+ .ARM.attributes
+                0x000002e7       0x31 _build/max17048.o
+ .ARM.attributes
+                0x00000318       0x31 _build/mpu9x50.o
+ .ARM.attributes
+                0x00000349       0x31 _build/pca9538.o
+ .ARM.attributes
+                0x0000037a       0x31 _build/ff.o
+ .ARM.attributes
+                0x000003ab       0x31 _build/diskio.o
+ .ARM.attributes
+                0x000003dc       0x31 _build/battery.o
+ .ARM.attributes
+                0x0000040d       0x31 _build/twi_hw_master.o
+ .ARM.attributes
+                0x0000043e       0x31 _build/ble_dis.o
+ .ARM.attributes
+                0x0000046f       0x31 _build/ble_srv_common.o
+ .ARM.attributes
+                0x000004a0       0x31 _build/softdevice_handler.o
+ .ARM.attributes
+                0x000004d1       0x31 _build/ble_advdata.o
+ .ARM.attributes
+                0x00000502       0x31 _build/ble_conn_params.o
+ .ARM.attributes
+                0x00000533       0x31 _build/app_timer.o
+ .ARM.attributes
+                0x00000564       0x31 _build/pstorage.o
+ .ARM.attributes
+                0x00000595       0x31 _build/device_manager_peripheral.o
+ .ARM.attributes
+                0x000005c6       0x31 _build/app_gpiote.o
+ .ARM.attributes
+                0x000005f7       0x31 _build/nrf_delay.o
+ .ARM.attributes
+                0x00000628       0x31 _build/app_scheduler.o
+ .ARM.attributes
+                0x00000659       0x31 _build/system_nrf51.o
+ .ARM.attributes
+                0x0000068a       0x1b _build/gcc_startup_nrf51.o
+ .ARM.attributes
+                0x000006a5       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x000006c3       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000006e1       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000006ff       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000071d       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000073b       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000767       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x00000793       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x000007bf       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000007eb       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x00000809       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000827       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000853       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000087f       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000008ab       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000008d7       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000903       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000092f       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000095b       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000987       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000009b3       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000009df       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000a0b       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000a37       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000a63       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000a8f       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000abb       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000ae7       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000b13       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000b3f       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000b6b       0x1e /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .ARM.attributes
+                0x00000b89       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000bb5       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 _build/utils.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 _build/ble_ambient.o
+ .comment       0x00000000       0x71 _build/main.o
+ .comment       0x00000000       0x71 _build/init.o
+ .comment       0x00000000       0x71 _build/pr.o
+ .comment       0x00000000       0x71 _build/temp.o
+ .comment       0x00000000       0x71 _build/hum.o
+ .comment       0x00000000       0x71 _build/sd_card.o
+ .comment       0x00000000       0x71 _build/nrf_pwm.o
+ .comment       0x00000000       0x71 _build/fhp_gpio.o
+ .comment       0x00000000       0x71 _build/spi_fhp_master.o
+ .comment       0x00000000       0x71 _build/bme280.o
+ .comment       0x00000000       0x71 _build/max1161x.o
+ .comment       0x00000000       0x71 _build/SEGGER_RTT.o
+ .comment       0x00000000       0x71 _build/max17048.o
+ .comment       0x00000000       0x71 _build/mpu9x50.o
+ .comment       0x00000000       0x71 _build/pca9538.o
+ .comment       0x00000000       0x71 _build/ff.o
+ .comment       0x00000000       0x71 _build/diskio.o
+ .comment       0x00000000       0x71 _build/battery.o
+ .comment       0x00000000       0x71 _build/twi_hw_master.o
+ .comment       0x00000000       0x71 _build/ble_dis.o
+ .comment       0x00000000       0x71 _build/ble_srv_common.o
+ .comment       0x00000000       0x71 _build/softdevice_handler.o
+ .comment       0x00000000       0x71 _build/ble_advdata.o
+ .comment       0x00000000       0x71 _build/ble_conn_params.o
+ .comment       0x00000000       0x71 _build/app_timer.o
+ .comment       0x00000000       0x71 _build/pstorage.o
+ .comment       0x00000000       0x71 _build/device_manager_peripheral.o
+ .comment       0x00000000       0x71 _build/app_gpiote.o
+ .comment       0x00000000       0x71 _build/nrf_delay.o
+ .comment       0x00000000       0x71 _build/app_scheduler.o
+ .comment       0x00000000       0x71 _build/system_nrf51.o
+
+.debug_frame    0x00000000      0x500
+ .debug_frame   0x00000000       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000020       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000040       0x50 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(bpabi.o)
+ .debug_frame   0x00000090       0x34 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_muldi3.o)
+ .debug_frame   0x000000c4       0x3c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_divdi3.o)
+ .debug_frame   0x00000100       0x3c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/libgcc.a(_udivdi3.o)
+ .debug_frame   0x0000013c       0x28 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000164       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000190       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x000001bc       0x28 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x000001e4       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000204       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000230       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000025c       0x2c /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000288       0x50 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x000002d8       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strcpy.o)
+ .debug_frame   0x000002f8       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .debug_frame   0x00000318       0x74 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x0000038c       0x54 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x000003e0       0x48 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000428       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memchr.o)
+ .debug_frame   0x00000448       0x28 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00000470       0x30 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x000004a0       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x000004c0       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .debug_frame   0x000004e0       0x20 /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)

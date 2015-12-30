@@ -1,0 +1,19 @@
+_build/SEGGER_RTT.o: \
+ /home/luis/Desktop/SETEC/sample/drivers/hardware/segger_rtt/SEGGER_RTT.c \
+ /home/luis/Desktop/SETEC/sample/drivers/hardware/segger_rtt/SEGGER_RTT.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/string.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/_ansi.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/newlib.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/config.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/features.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/reent.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/_ansi.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/lib/gcc/arm-none-eabi/4.9.3/include/stddef.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/_types.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/machine/_types.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/machine/_default_types.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/lock.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/cdefs.h \
+ /home/luis/Desktop/SETEC/gcc-arm-none-eabi-4_9-2015q3/arm-none-eabi/include/sys/string.h \
+ /home/luis/Desktop/SETEC/sample/drivers/hardware/segger_rtt/SEGGER_RTT_Conf.h
